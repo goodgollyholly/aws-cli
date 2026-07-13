@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/status.py": {
+      "runtime": "python3.12"
+    }
+  }
+}
