@@ -1,4 +1,4 @@
 check-manifest==0.37
 
-# We need setuptools>=43.0 to include pyproject.toml
-setuptools>=43.0
+# We need setuptools>=83.0.0 to include pyproject.toml
+setuptools>=83.0.0
